@@ -1,2 +1,2 @@
-# Agila-Methodologies-In-depth
-Agila Methodologies In-depth, published by BPB Publications
+# Agile-Methodologies-In-depth
+Agile Methodologies In-depth, published by BPB Publications
